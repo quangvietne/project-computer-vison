@@ -1,6 +1,6 @@
 # Mô tả dự án 
 - Dự án này giải quyết bài toán phát hiện đối tượng nhỏ (người, phương tiện) trên ảnh hồng ngoại nhiệt thu thập từ UAV ở độ cao lớn (60m - 130m). Ảnh nhiệt có độ tương phản thấp và chi tiết mờ, khiến các mô hình thông thường gặp khó khăn.
-- Giải pháp của chúng tôi là xây dựng Mô hình Lai (Hybrid Model): sử dụng kiến trúc YOLOv8 làm nền tảng (Head/Neck) và thay thế Backbone mặc định bằng các mạng CNN hiện đại để tối ưu hóa việc trích xuất đặc trưng.
+- Giải pháp của là xây dựng Mô hình Lai (Hybrid Model): sử dụng kiến trúc YOLOv8 làm nền tảng (Head/Neck) và thay thế Backbone mặc định bằng các mạng CNN hiện đại để tối ưu hóa việc trích xuất đặc trưng.
 
 # Phương pháp : 
 - Dataset: Sử dụng bộ dữ liệu HIT-UAV gồm 2,898 ảnh nhiệt được chọn lọc kỹ, bao gồm cả điều kiện ban ngày và ban đêm.
