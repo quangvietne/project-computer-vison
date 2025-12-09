@@ -1,0 +1,2 @@
+- Dữ liệu đầy đủ: https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset
+- Dữ liệu trên kaggle: https://www.kaggle.com/datasets/pandrii000/hituav-a-highaltitude-infrared-thermal-dataset
